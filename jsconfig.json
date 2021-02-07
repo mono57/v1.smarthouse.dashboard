@@ -1,0 +1,15 @@
+// {
+//   "compilerOptions": {
+//     "baseUrl": ".",
+//     "paths": {
+//         "_components": ["src/components/*"],
+//         "_common": ["src/components/common/*"],
+//         "_styled": ["src/components/styled/*"],
+//         "_navigations": ["src/navigations/*"],
+//         "_screens": ["src/screens/*"],
+//         "_services": ["src/services/*"],
+//         "_styles": ["src/styles/*"],
+//         "_assets": ["assets/*"]
+//     }
+//   }
+// }
